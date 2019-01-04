@@ -24,3 +24,13 @@
 3º Referencia de uma tabela a outra
 
 4° Estudo Pessoal!
+
+## Project-Four
+
+1º Projeto Foi usado para conhecimento do framework
+
+2º Cadastro de usuarios
+
+3º Validação de formularios com o laravel (required)
+
+4° Estudo Pessoal!
