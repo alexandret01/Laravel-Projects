@@ -111,3 +111,20 @@
 2º Upload de Imagens e exibição com informações do  usuario
 
 3° Estudo Pessoal!
+
+## Project-Fourteen
+
+1º Projeto Foi usado para conhecimento do framework
+
+2º Angular (Front-End) + Laravel (Back-end)
+
+3º Comandos:{
+    composer install
+    php artisan storage:link
+    edite .env para configurar sua base dados
+    cd resources/assets/meuapp/
+    npm install
+    npm run build
+}
+
+4° Estudo Pessoal!
