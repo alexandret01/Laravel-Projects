@@ -1,3 +1,15 @@
+## Comandos
+
+0º Verificar Qual projeto precisa dos comandos!
+
+1º composer install
+
+2º npm install
+
+3º npm run dev
+
+4º php artisan migrate
+
 ## Project-One
 
 1º Projeto Foi usado para conhecimento do framework
@@ -5,7 +17,6 @@
 2º Rotas / Restrições / Make
 
 3º Estudo Pessoal!
-
 
 ## Project-Two
 
@@ -90,5 +101,13 @@
 1º Projeto Foi usado para conhecimento do framework
 
 2º Login Multiusuario, (Admins,Users) , Pagina para admins conseguirem logar e outra para usuarios
+
+3° Estudo Pessoal!
+
+## Project-Twelve
+
+1º Projeto Foi usado para conhecimento do framework
+
+2º Upload de Imagens e exibição com informações do  usuario
 
 3° Estudo Pessoal!
