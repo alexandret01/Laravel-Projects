@@ -49,6 +49,14 @@
 
 1º Projeto Foi usado para conhecimento do framework
 
-2º Relação entre Tabela um por um
+2º Relação entre Tabelas um para um
+
+3° Estudo Pessoal!
+
+## Project-Seven
+
+1º Projeto Foi usado para conhecimento do framework
+
+2º Relação entre Tabelas um para muitos
 
 3° Estudo Pessoal!
