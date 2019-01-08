@@ -1,14 +1,14 @@
 ## Comandos
 
-0º Verificar Qual projeto precisa dos comandos!
+    0º Verificar Qual projeto precisa dos comandos!
 
-1º composer install
+    1º composer install
 
-2º npm install
+    2º npm install
 
-3º npm run dev
+    3º npm run dev
 
-4º php artisan migrate
+    4º php artisan migrate
 
 ## Project-One
 
