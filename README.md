@@ -127,4 +127,4 @@
         npm run build
     }
 
-    4° Estudo Pessoal!
+4° Estudo Pessoal!
